@@ -1,5 +1,5 @@
 {
-  "name": "classic",
+  "name": "mu",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -18,7 +18,6 @@
     "@docusaurus/preset-classic": "3.6.3",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
-    "gh-pages": "^6.2.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"

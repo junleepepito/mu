@@ -42,9 +42,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: './docs', //This should be the path to your docs folder
-          routeBasePath: 'guides',  //This should be the word that you want to set
-          
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -152,12 +149,3 @@ const config = {
 };
 
 export default config;
-// docusaurus.config.js
-
-module.exports = {
-    title: 'My Docusaurus Site', // This is required
-    tagline: 'The tagline of your site',  
-  url: 'https://junleepepito.github.io', // GitHub username
-  baseUrl: '/mu/',              // Repository name
-};
-
