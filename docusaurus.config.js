@@ -152,3 +152,12 @@ const config = {
 };
 
 export default config;
+// docusaurus.config.js
+
+module.exports = {
+    title: 'My Docusaurus Site', // This is required
+    tagline: 'The tagline of your site',  
+  url: 'https://junleepepito.github.io', // GitHub username
+  baseUrl: '/mu/',              // Repository name
+};
+
